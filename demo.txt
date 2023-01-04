@@ -3,7 +3,3 @@ hello world.
 lorem ipsum something i dont know still.
 
  hello
-
-hello2
-
- holla
